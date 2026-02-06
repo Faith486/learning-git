@@ -1,0 +1,9 @@
+STEPS
+- Create an issue
+- Clone the repo / create a branch
+- Getting the list of all branches -> git branch --all
+- Creating a new branch -> git branch mybranch
+- Switching to a new branch -> git checkout mybranch
+- Add, commit on that specific branch
+- Pushing to a specific branch -> git push --set-upstream origin mybranch
+- Go to GitHub -> Create Pull Request -> Merge pull Request from mybranch to main branch if no conflicts are found
